@@ -29,7 +29,7 @@ Como se mencionó anteriormente, la librería JointJS puede ser utilizada para l
 
 ####Ejemplos####
 
-![avatar](pictures/avatar.png)
+    http://www.ic-itcr.ac.cr/~osrodriguez/Interfaces/imagen1.jpg
 
 
 Así, el diagrama anterior puede ser diseñado mediante figuras y líneas creadas mediante el siguiente código:
@@ -62,7 +62,7 @@ Union de ambas figuras
     e1.joint(r1, erd.toMany);
 
 
-![avatar](pictures/avatar.png)
+    http://www.ic-itcr.ac.cr/~osrodriguez/Interfaces/imagen2.jpg
 
 
 El diagrama anterior ha sido creado utilizando el siguiente código:
@@ -155,7 +155,7 @@ Para mostrar mejor la definición de esta estructura presentamos el siguiente ej
     </mapa>
 
 
-![avatar](pictures/imagen1.jpg
+    http://www.ic-itcr.ac.cr/~osrodriguez/Interfaces/imagen3.jpg
 
 ##Ejemplos de datos a utilizar como pruebas##
 
@@ -236,6 +236,11 @@ Debido a problemas con la librería JointJs, no se logró implementar por comple
 ###Posibles Mejoras###
 
 Para futuras implementaciones se busca agregar la funcionalidad de permitir al usuario la posibilidad de especificar el tipo de figura que se desea utilizar en el mapa conceptual (rombos, cuadrados, rectángulos, triángulos), así como el color que tendrán cada  uno de estos.
+
+###Apendice###
+
+Para descargar el proyecto:
+    http://www.ic-itcr.ac.cr/~osrodriguez/Interfaces/
 
 ##Bibliografia##
 
