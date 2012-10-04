@@ -29,7 +29,7 @@ Como se mencionó anteriormente, la librería JointJS puede ser utilizada para l
 
 ####Ejemplos####
 
-    http://www.ic-itcr.ac.cr/~osrodriguez/Interfaces/imagen1.jpg
+http://www.ic-itcr.ac.cr/~osrodriguez/Interfaces/imagen1.jpg
 
 
 Así, el diagrama anterior puede ser diseñado mediante figuras y líneas creadas mediante el siguiente código:
@@ -62,7 +62,7 @@ Union de ambas figuras
     e1.joint(r1, erd.toMany);
 
 
-    http://www.ic-itcr.ac.cr/~osrodriguez/Interfaces/imagen2.jpg
+http://www.ic-itcr.ac.cr/~osrodriguez/Interfaces/imagen2.jpg
 
 
 El diagrama anterior ha sido creado utilizando el siguiente código:
@@ -155,7 +155,7 @@ Para mostrar mejor la definición de esta estructura presentamos el siguiente ej
     </mapa>
 
 
-    http://www.ic-itcr.ac.cr/~osrodriguez/Interfaces/imagen3.jpg
+http://www.ic-itcr.ac.cr/~osrodriguez/Interfaces/imagen3.jpg
 
 ##Ejemplos de datos a utilizar como pruebas##
 
